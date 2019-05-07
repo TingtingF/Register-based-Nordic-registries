@@ -103,3 +103,17 @@ This is an extreme example of over-normalization. This was actually done in the 
 Demoralized is the opposite. It's also known as 'flat'. A flat Database only has one single table It has only one single table where all data is stored. The disadvantage of this approach is that doubles may exist. On the other hand, Data storage is cheap and we don't need to worry a lot of this.
 
 Normalization and Denormalization
+
+
+GOOD dm
+
+Well organized storage
+Ideally self descriptive
+keep track of the data
+change control: who have access
+version handling
+back up
+documentation!
+
+
+SIZE MATTER? SUFFIEIENT SIZE?

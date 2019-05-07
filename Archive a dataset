@@ -1,4 +1,7 @@
-1. Common dataset with build in 'problems' or your own data
+1. Common dataset with build in 'problems'
 2. Normalized or de-normalized
 3. Archive this dataset in a 'good way'
 4. Pairwise, groups, exchange archives and resotre the data
+
+
+A dataset with 205 cancer patients from different sites and different suivival times, in days. Status code 1,2 and 3 for died, alive and dead from other causes. Exit dates included and age

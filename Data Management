@@ -39,6 +39,15 @@ IMPORTANT:  Code book !
 
 MISSING VALUES: 1.outcome of operation that was not perfoemd(fos example)
 
+
+PROPER DATABASE(MySQL)
+
+VARIABLE LENGTH.Num 3,4,5
+Codes: numeric
+Date: length 4
+Use code tabels (R:Factor/Stata:'value labels')
+Normalized VS DENORMALIZED data
+
 dISTINCT VALUES:
 
 NOMINAL SCALES: MISSING can be allowed and valid(Yes, No, Not applicable)

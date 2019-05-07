@@ -24,3 +24,6 @@ head(MyData)
 
 suppressPackageStartupMessages(library("dataMaid"))
 makeDataReport(MyData)
+
+
+

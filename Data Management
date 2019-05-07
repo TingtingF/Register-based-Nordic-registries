@@ -63,3 +63,18 @@ wORKING WITH TEXT STRINGS
 
 
 sTORE CODES AND LABELS INSTEAD
+
+
+
+
+
+Normalized is what SQL freaks love. For example to normalize addresses, SQL freaks love to create 3 separate tables (Entities):
+
+STREETS
+ZIP_CODES
+HOUSE_NUMBERS
+This is an extreme example of over-normalization. This was actually done in the '70-ties when disk-space was expensive. Today only a few idiots are going this far. It doesn't make sense anymore. We just create one single table with full addresses.
+
+Demoralized is the opposite. It's also known as 'flat'. A flat Database only has one single table It has only one single table where all data is stored. The disadvantage of this approach is that doubles may exist. On the other hand, Data storage is cheap and we don't need to worry a lot of this.
+
+Normalization and Denormalization

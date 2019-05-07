@@ -4,4 +4,16 @@
 4. Pairwise, groups, exchange archives and resotre the data
 
 
-A dataset with 205 cancer patients from different sites and different suivival times, in days. Status code 1,2 and 3 for died, alive and dead from other causes. Exit dates included and age
+A dataset with 205 cancer patients from different sites and different suivival times, in days. Status code 1,2 and 3 for died,
+alive and dead from other causes. Exit dates included and age
+
+* Open the original dataset
+load("C:/Users/tingtinf/Downloads/t1.RData") 
+head(t1)
+
+* Archive the dataset, ie, transform it to csv format
+write.csv(t1,'t1.csv')
+
+MyData <- read.csv(file="t1.csv", header=TRUE, sep=",")
+
+head(MyData)

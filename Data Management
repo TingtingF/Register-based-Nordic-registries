@@ -35,3 +35,15 @@ For data entry forms you may use one standard for the data and plan
 
 
 IMPORTANT:  Code book !
+
+
+MISSING VALUES: 1.outcome of operation that was not perfoemd(fos example)
+
+dISTINCT VALUES:
+
+NOMINAL SCALES: MISSING can be allowed and valid(Yes, No, Not applicable)
+
+
+DATA RELATION AND DERIVED VARIABLES: E.G.BMI, sMOKING PACK-YEARS
+
+Should be considered part of the data entry.

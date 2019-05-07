@@ -59,7 +59,7 @@ codebook ensures that the statistician has the complete background
 information necessary to undertake the analysis, and a codebook
 documents the data to make sure that the data is well understood and
 reusable in the future. Here we will show how to create codebooks in R
-using the dataMaid packages.
+using the dataMaid packages.  http://sandsynligvis.dk/articles/17/datamaid.html
 
 
 MISSING VALUES: 1.outcome of operation that was not perfoemd(fos example)

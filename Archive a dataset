@@ -17,3 +17,10 @@ write.csv(t1,'t1.csv')
 MyData <- read.csv(file="t1.csv", header=TRUE, sep=",")
 
 head(MyData)
+
+
+* Identify potential problems in the datasets 
+* since the variables in the dataset can only be understood in the proper context of their origin.
+
+suppressPackageStartupMessages(library("dataMaid"))
+makeDataReport(MyData)

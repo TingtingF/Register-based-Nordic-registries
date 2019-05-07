@@ -36,6 +36,14 @@ For data entry forms you may use one standard for the data and plan
 
 IMPORTANT:  Code book !
 
+A codebook is a technical document that provides an
+overview of and information about the variables in a dataset. The
+codebook ensures that the statistician has the complete background
+information necessary to undertake the analysis, and a codebook
+documents the data to make sure that the data is well understood and
+reusable in the future. Here we will show how to create codebooks in R
+using the dataMaid packages.
+
 
 MISSING VALUES: 1.outcome of operation that was not perfoemd(fos example)
 
